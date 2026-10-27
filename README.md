@@ -73,3 +73,6 @@ This repository is intended for university coursework, project development, and 
 ## Repository
 
 https://github.com/emir2007-maker/black_app
+## Version Control
+
+This project uses Git and GitHub for version control and source code management.
